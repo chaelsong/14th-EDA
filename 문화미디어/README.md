@@ -110,7 +110,7 @@
 
 -----
 
-## 💡 한계 및 향후 과제 (Limitations & Future Work)
+## 한계 및 향후 과제 (Limitations & Future Work)
 
   * **한계점**:
 
