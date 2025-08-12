@@ -1,4 +1,4 @@
-#EDA 의료 프로젝트 
+## 제목 
 CGM: 연속 혈당 모니터링 데이터를 활용한 혈당 변화 패턴 분석 및 INSULIN SENSITIVITY 정량화
 
 
