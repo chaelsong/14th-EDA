@@ -77,7 +77,7 @@
 
 -----
 
-## 📂 리포지토리 구조 (Repository Structure)
+## 리포지토리 구조 (Repository Structure)
 
 ```
 .
