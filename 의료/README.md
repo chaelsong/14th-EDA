@@ -17,11 +17,15 @@ CGM: 연속 혈당 모니터링 데이터를 활용한 혈당 변화 패턴 분�
 ## 데이터 분석 방법
 > * Linear mixed model (LMM)을 이용한 개인별 Insulin sensitity 추정
 <img width="1154" height="358" alt="image" src="https://github.com/user-attachments/assets/1b4ef4e3-9b73-4dc5-8bd1-5a05cfe2c5e9" />
+
 > * 시계열 모형 (ARIMA)를 이용한 insulin sensitivity 추정
 <img width="976" height="70" alt="image" src="https://github.com/user-attachments/assets/5e5d428a-cff9-4647-a080-c051b0abc0f1" />
+
 > * 개인별 Insulin sensitivity와 individual feature 간 상관관계 파악
+
 > * 심박수에 따른 insulin efficiency 변화 파악
 <img width="804" height="68" alt="image" src="https://github.com/user-attachments/assets/ff18bf54-7511-4300-9903-03f90a59e15f" />
+
 ## 프로젝트 결과
 >1. LMM을 이용한 Insulin 투여와 탄수화물 섭취와 혈당 변화 시간 간격 파악 
 Insulin 투여가 혈당 변화에 가장 큰 영향을 미치는 시간은 투여 후 50분, 탄수화물 섭취가 가장 큰
